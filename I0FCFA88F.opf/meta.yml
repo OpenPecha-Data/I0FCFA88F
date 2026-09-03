@@ -1,0 +1,23 @@
+id: I0FCFA88F
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-KK-16
+  title: ''
+  author: ''
+  authors: &id001 []
+  sku: RDI-KK-16
+  cover: RDI-KK-16.jpeg
+  volume: {}
+ebook_metadata:
+  title: ''
+  authors: *id001
+  sku: RDI-KK-16
+  cover: RDI-KK-16.jpeg
+layers:
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- SubTitle
+- Tsawa
+- Yigchung
