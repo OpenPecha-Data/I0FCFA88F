@@ -2,14 +2,17 @@ id: I0FCFA88F
 initial_creation_type: ebook
 source_metadata:
   id: RDI-KK-16
-  title: ''
-  author: ''
-  authors: &id001 []
+  title: བསྐྱེད་རྫོགས་མན་ངག་གཅེས་གཏུས།
+  author: མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་ཡོན་ཏན་རྒྱ་མཚོ།
+  authors: &id001
+  - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་ཡོན་ཏན་རྒྱ་མཚོ།
   sku: RDI-KK-16
   cover: RDI-KK-16.jpeg
   volume: {}
+  title_source: epub:dc:title
+  author_source: base_text:colophon
 ebook_metadata:
-  title: ''
+  title: བསྐྱེད་རྫོགས་མན་ངག་གཅེས་གཏུས།
   authors: *id001
   sku: RDI-KK-16
   cover: RDI-KK-16.jpeg
