@@ -17,6 +17,7 @@ ebook_metadata:
   sku: RDI-KK-16
   cover: RDI-KK-16.jpeg
 layers:
+- BookNumber
 - Chapter
 - Citation
 - Commentary

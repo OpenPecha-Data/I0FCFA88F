@@ -5,6 +5,7 @@
 	- མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་ཡོན་ཏན་རྒྱ་མཚོ།
 
 ### Layers:
+	- book_number
 	- chapter
 	- citation
 	- commentary
